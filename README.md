@@ -4,7 +4,7 @@ PySpark MovieLens Analysis Project
 Project Overview
 This project demonstrates how to leverage Apache PySpark for scalable data processing and analysis on the large-scale MovieLens 20M dataset, illustrating a real-world data analytics workflow. The primary objective is to extract meaningful business and analytical insights from user movie rating data with distributed computing and present the results through professional, static visualizations suited for BI or decision-making audiences.
 
-You will gain hands-on experience in:
+ gained hands-on experience in:
 
 Ingesting and preprocessing big datasets at scale using PySpark DataFrames and SQL
 
